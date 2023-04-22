@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AstroCheckBox">
+        <attr name="curveRadius" format="dimension" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="tickWidth" format="dimension" />
+        <attr name="tickColor" format="color" />
+        <attr name="bgColorChecked" format="color" />
+        <attr name="bgColorUnchecked" format="color" />
+        <attr name="borderColorChecked" format="color" />
+        <attr name="borderColorUnchecked" format="color" />
+    </declare-styleable>
+</resources>
